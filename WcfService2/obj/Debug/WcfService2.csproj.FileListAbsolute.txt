@@ -1,0 +1,7 @@
+D:\后端\WCF\WcfService2\bin\WcfService2.dll.config
+D:\后端\WCF\WcfService2\bin\WcfService2.dll
+D:\后端\WCF\WcfService2\bin\WcfService2.pdb
+D:\后端\WCF\WcfService2\obj\Debug\WcfService2.csprojAssemblyReference.cache
+D:\后端\WCF\WcfService2\obj\Debug\WcfService2.csproj.CoreCompileInputs.cache
+D:\后端\WCF\WcfService2\obj\Debug\WcfService2.dll
+D:\后端\WCF\WcfService2\obj\Debug\WcfService2.pdb
