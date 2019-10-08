@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="PlusNumber">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="num1" type="xs:double" />
+        <xs:element minOccurs="0" name="num2" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PlusNumberResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PlusNumberResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="JianName">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="num1" type="xs:double" />
+        <xs:element minOccurs="0" name="num2" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="JianNameResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="JianNameResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ChengNumber">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="num1" type="xs:double" />
+        <xs:element minOccurs="0" name="num2" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ChengNumberResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ChengNumberResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ChuNumber">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="num1" type="xs:double" />
+        <xs:element minOccurs="0" name="num2" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ChuNumberResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ChuNumberResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
